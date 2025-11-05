@@ -1,6 +1,6 @@
-# StarGazer Frontend
+# StarGazer
 
-A production-ready React + TypeScript + Tailwind user interface for exploring real-time planetary and lunar visibility via the StarGazer Flask/Skyfield API.
+Star Gazer Star Gazer is an interactive web app that lets users explore the night sky from any point in time and space. Whether you’re curious about what the stars looked like on your birthday, during a historical event, or at a future date, Star Gazer brings the cosmos to your fingertips. The app provides: 🌠 Real-time celestial visualization – view constellations, planets, and stars as they appeared at a chosen date and location. ♈ Astrological insights – discover zodiac constellations and horoscope alignments associated with specific times. 🗺️ Interactive map interface – easily select global locations and times using an intuitive, responsive design. 📱 Educational and personal use – perfect for astronomy enthusiasts, students, or anyone interested in the connection between the stars and human experience. Built with modern web technologies for performance and clarity, Star Gazer aims to make stargazing accessible, visual, and meaningful — all from your browser.
 
 ## Prerequisites
 
@@ -89,3 +89,6 @@ Visibility data is loaded from `GET /visible` on the Flask backend. All requests
 1. Fork and branch from `main`.
 2. Run `npm run lint` before opening pull requests.
 3. Provide screenshots for significant UI changes.
+
+# Vision
+FOR individuals who are fascinated by the night sky, astrology, and the connection between cosmic events and personal meaning, WHO want an accessible and visually engaging way to explore how the stars and planets aligned at specific moments in time, THE Star Gazer is an interactive web application that allows users to visualize celestial arrangements and discover astrological insights for any chosen date and location. UNLIKE traditional astronomy software or generic horoscope websites, OUR PRODUCT combines real-time astronomical data with elegant, user-friendly design to create an immersive experience that bridges science, art, and personal reflection.
