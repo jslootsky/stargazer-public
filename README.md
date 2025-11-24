@@ -21,7 +21,7 @@ Built with modern web technologies for performance and clarity, Star Gazer aims 
    git clone https://github.com/cis3296f25/final-project-01-stargazer.git
    ```
 
-1. **Install frontend dependencies**
+1. **CD Into Repo and Install Frontend Dependencies**
    ```bash
    npm install
    ```
@@ -32,7 +32,7 @@ Built with modern web technologies for performance and clarity, Star Gazer aims 
    Upgrade pip and install requirements
    ```bash
    python -m pip install --upgrade pip
-   pip install -r requirements.txt
+   pip install -r backend/requirements.txt
    ```
    >if ```requirements.txt``` does not exist, generate one with 
    >   ```
@@ -64,7 +64,7 @@ Built with modern web technologies for performance and clarity, Star Gazer aims 
 
 
 5. **Start the flask backend**
-   On a separate terminal in the same directory
+   On a separate terminal in the backend directory
    ```
    python stargazer.py
    ```
